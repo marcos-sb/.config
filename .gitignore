@@ -1,0 +1,9 @@
+# Exclude everything
+/*
+
+# Exclude all symlinks
+*.symlink
+
+# Except what's listed here
+!helix/
+!.gitignore
