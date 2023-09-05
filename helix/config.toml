@@ -8,3 +8,6 @@ select = "underline"
 [editor.indent-guides]
 render = true
 character = "▏" # Some characters that work well: "▏", "┆", "┊", "⸽"
+
+[editor.soft-wrap]
+enable = true
